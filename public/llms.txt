@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+מגה אור מביאה לכם עולם שלם של תאורה לעיצוב פנים מודרני, אלקטרוניקה וחשמל איכותי. פתרונות תאורה חכמים שמשנים כל חלל — גלו את הקולקציה עכשיו.
+
+### שירותים
+https://example.com/services
+משירותי תכנון תאורה מקצועי ועד התקנת מערכות אלקטרוניקה מתקדמות — מגה אור מציעה מגוון שירותים שיהפכו כל פרויקט לחוויה בלתי נשכחת. בואו לגלות.
+
+### אודות
+https://example.com/about
+מגה אור נולדה מתוך תשוקה אמיתית לאור ועיצוב. הכירו את הצוות שמאחורי המותג המוביל בתאורה לעיצוב פנים מודרני ואלקטרוניקה בישראל — ערכים, חזון ומסירות.
+
+### צור קשר
+https://example.com/contact
+יש לכם פרויקט תאורה או שאלה על אלקטרוניקה? צוות מגה אור כאן בשבילכם. צרו קשר עוד היום ותקבלו ייעוץ מקצועי חינם שיתאים בדיוק לצרכים שלכם.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
